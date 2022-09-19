@@ -1,5 +1,4 @@
 
-mod sphere;
 mod vector;
 
 pub use vector::Vector;
